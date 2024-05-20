@@ -37,8 +37,8 @@ h1 {
 }
 
 img {
-    height: 340px;
-    width: 400px;
+    height: 540px;
+    width: 600px;
     margin: 10px;
     border: 8px solid #ECAE00;
     border-radius: 15px;
@@ -114,8 +114,7 @@ h1:hover {
 }
 
 .text2:hover {
-    display: inline-block;
-    
+    display: inline-block; 
     background-color: #AB3C45;
     border: 6px solid #ECAE00;
     padding: 6px;
@@ -126,8 +125,8 @@ h1:hover {
 }
 
 .img1:hover {
-    height: 330px;
-    width: 600px;
+    height: 430px;
+    width: 700px;
     margin: 10px;
     border: 8px solid #AB3C45;
     border-radius: 15px;
