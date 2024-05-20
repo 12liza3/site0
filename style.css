@@ -163,3 +163,27 @@ h3:hover {
     color: #ECAE00;
     transition: 1s color ease-out;
 }
+
+.class {
+    border: #ECAE00 solid 7px;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #AB3C45;
+}
+
+.class:hover {
+    
+    border: #ECAE00 solid 7px;
+    background-color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #AB3C45;
