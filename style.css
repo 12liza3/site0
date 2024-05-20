@@ -83,7 +83,7 @@ footer {
 
 .text2 {
     display: inline-block;
-    width: 430px;
+    width: 530px;
     background-color: #ECAE00;
     border: 6px solid #AB3C45;
     padding: 5px;
@@ -139,7 +139,7 @@ h1:hover {
 
 .text2:hover {
     display: inline-block;
-    width: 430px;
+    width: 530px;
     background-color: #AB3C45;
     border: 6px solid #ECAE00;
     padding: 6px;
